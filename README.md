@@ -288,8 +288,8 @@
     <section class="contact">
       <h2>Contact</h2>
       <p>Email: <a href="mailto:chavanomiipatil@gmail.com">chavanomiipatil@gmail.com</a></p>
-      <p>GitHub: <a href="https://github.com/yourusername" target="_blank">github.com/yourusername</a></p>
-      <p>LinkedIn: <a href="https://linkedin.com/in/yourusername" target="_blank">linkedin.com/in/yourusername</a></p>
+      <p>GitHub: <a href="https://github.com/Omkarpatilchavan0712" target="_blank">github.com/yourusername</a></p>
+      <p>LinkedIn: <a href="https://www.linkedin.com/feed/" target="_blank">linkedin.com/in/yourusername</a></p>
     </section>
 
   </div>
